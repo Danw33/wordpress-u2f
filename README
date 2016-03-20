@@ -14,7 +14,7 @@ The functionality is similar to the U2F (Security Key) support available for Goo
 
 === Installation
 
-. Install the dependencies using http://getcomposer.org[Composer].
+. Install the dependencies using https://getcomposer.org[Composer].
 . Move the wordpress-u2f directory into the `/wp-content/plugins/` directory.
 . Activate the plugin through the 'Plugins' menu in WordPress.
 . Go to _Settings_ -> _U2F_.
